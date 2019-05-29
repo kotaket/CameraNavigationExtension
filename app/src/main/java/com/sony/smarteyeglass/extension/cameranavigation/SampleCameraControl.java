@@ -133,7 +133,7 @@ public final class SampleCameraControl extends ControlExtension {
 
         /*
 
-        git test
+        git tested
 
         */
         utils = new SmartEyeglassControlUtils(hostAppPackageName, listener);
